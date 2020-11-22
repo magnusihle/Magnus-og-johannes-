@@ -22,3 +22,9 @@ export default {
   }),
 };
 </script>
+<style lang="scss" scoped>
+.theme--light.v-application {
+  background: #efefef;
+  color: rgba(0, 0, 0, 0.87);
+}
+</style>
