@@ -9,7 +9,6 @@
 
 <script>
 import AppBar from "@/components/Layout/AppBar.vue";
-
 export default {
   name: "App",
 
